@@ -1,6 +1,7 @@
 
 Description:
 This is simple to TodoList in reactjs
+Add and Delete from Todo and used axios to fetch data.
 
 
 Quick Start
